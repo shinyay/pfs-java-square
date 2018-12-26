@@ -1,3 +1,3 @@
 #!/usr/bin/env fish
 
-pfs service delete hello
+pfs service delete square
